@@ -7,7 +7,7 @@ Have you ever been bogged down by the mediocrity of, well, every single programm
 ## Why AAA? Here's a list of features that don't really matter:
 
 - **Syntax so intuitive, you'll forget how to write English.** (But seriously, it's like reading a toddler's fever dream.)
-- **Readability? Who needs it? We have only A's!** (Because nothing says professional codebase like a sprinkling of poop emojis.)
+- **Readability? Who needs it? We have only A's!** (Because nothing says more about a professional code base than a series of A's)
 - **A built-in coffee maker.** (Just kidding, that would be useful. This is AAA, remember?)
 
 ## Who is AAA for?
